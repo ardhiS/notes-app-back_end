@@ -1,0 +1,8 @@
+1.error pertama bertemu degan objeck literal
+maksudnya saya tidak membuat objec literal contohnya seperti in {} pada handler pertama yaitu menambahkanbuku
+saya malah menulis menambahkanbuku saja harusnya di tulis {menambahkanbuku}
+
+
+2. error ke 2 yaitu
+nanoid harus di tulis {nanoid}
+jangan hanya di tulis nanoid saja itu akan memunculkan error
